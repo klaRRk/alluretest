@@ -6,9 +6,8 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.equalTo;
 
-public class Mesto1test {
+public class Mesto1Test {
 
     String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjhiYmNlZWQ1NmMxNDAwM2Q0NzkxOGIiLCJpYXQiOjE3MjU1Mzg5ODIsImV4cCI6MTcyNjE0Mzc4Mn0.aZF0o68kHuoYs5wHjeiPtTcJF8P6ugeQ57XDvfNv1pw";
 
